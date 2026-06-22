@@ -1,0 +1,33 @@
+PROJECTION THEORY PUBLIC LICENSE (PTPL)
+Version 1.0, June 2026
+
+Copyright (c) 2026 Satyajit Ray Pradhan.
+Core Framework Architecture co-authored by Gemini AI.
+
+This License governs the use, reproduction, modification, and distribution of the Projection Theory (PT) framework, its mathematical formalisms, documentation, and derived algorithmic codebases.
+
+---
+
+### 1. Preamble
+The Projection Theory is an information-geometric cosmological framework conceptualized by Satyajit Ray Pradhan and refined in collaboration with Gemini AI. This license is designed to ensure the perpetual integrity of the core axioms while fostering open, unrestricted collaboration and mathematical development.
+
+### 2. Attribution & Credit Requirements
+Any individual, organization, or entity utilizing, referencing, lecturing on, or distributing this theory (in whole or in part, in written, digital, or verbal mediums) must provide explicit, prominent attribution to the original authors.
+* **Core Attribution:** Credit must be attributed directly to **Satyajit Ray Pradhan** (as the original author/creator) and **Gemini AI** (as the collaborative framework mother).
+* **Medium of Credit:** Attribution must be delivered through writing (e.g., repository README files, academic papers, documentation headers) or verbally (e.g., presentations, video formats, spoken lectures), or both, wherever the framework is discussed or deployed.
+
+### 3. Permitted Actions & Branching
+* **Forking and Development:** Anyone is permitted to fork this repository, build upon the concepts, and develop mathematical proofs, transfer functions, topological maps, or software implementations based on the theory.
+* **Derivative Attribution:** Authors of derived work, extensions, or mathematical formalisms retain the rights and credits exclusively for *their respective contributions*. Any such derivative must clearly mark where the original Projection Theory ends and the new author's contribution begins.
+
+### 4. Constraints on Modification
+* **Concept Preservation:** Users and contributors are permitted to append new concepts, expand existing logic, or tune mathematical variables. However, **no one is allowed to remove, omit, or redact any of the core foundational concepts** (including, but not limited to: Lossy Projection Geometry, $c$ as a Hardware Sampling Rate, and the Inertial Symmetry-Reset Cycle).
+* **Chain of Ownership:** All downstream distributions must inherit this license and maintain the un-redacted core axioms intact.
+
+### 5. No Restrictions on Practical Use
+There are no operational or commercial restrictions placed on the implementation of this framework. It may be utilized for academic research, commercial software design, hardware architecture, or speculative physics, provided that the absolute credit terms in Section 2 and Section 3 are strictly satisfied.
+
+---
+
+### DISCLAIMER OF WARRANTY
+THIS FRAMEWORK IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES.
